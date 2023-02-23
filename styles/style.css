@@ -1,0 +1,64 @@
+
+body {
+    background-color: rgb(204, 204, 204);
+}
+
+.pageHeader {
+    text-align: center;
+    padding: .9em;
+}
+
+.fish {
+    border: 1px dotted black;
+    padding: .1em;
+    margin: 0.5em;
+    width: 50%; 
+}
+img {
+    width:20%;
+    height:auto;
+}
+
+.quotes {
+    border: 1px dotted black;
+    padding: .1em;
+    margin: 0.5em; 
+    /* width: 70%;  */
+}
+
+.locations {
+    border: 1px dotted black;
+    padding: .1em;
+    margin: 0.5em;
+    /* width: 70%;   */
+}
+
+.tank_care {
+    /* border: 1px dotted black; */
+    padding: .6em;
+    margin: 0.5em; 
+}
+
+aside {
+    border: 2px black solid;
+    width: 100%;
+    padding: 1em;
+    margin: 10em;
+    /* float: right; */
+}
+
+.martins_aquarium {
+    /* float: left; */
+    /* border: 2px black solid; */
+    display:flex;
+    justify-content: space-evenly;
+    /* width: 100%; */
+    
+    
+  }
+
+.column_1, .column_2 {
+    
+}
+
+  
